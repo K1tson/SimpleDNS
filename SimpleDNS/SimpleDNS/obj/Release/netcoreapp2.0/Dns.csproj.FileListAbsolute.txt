@@ -1,8 +1,0 @@
-C:\Users\Jamie\source\repos\Kitson.Dns\Dns\bin\Release\netcoreapp2.0\Dns.deps.json
-C:\Users\Jamie\source\repos\Kitson.Dns\Dns\bin\Release\netcoreapp2.0\Dns.dll
-C:\Users\Jamie\source\repos\Kitson.Dns\Dns\bin\Release\netcoreapp2.0\Dns.pdb
-C:\Users\Jamie\source\repos\Kitson.Dns\Dns\obj\Release\netcoreapp2.0\Dns.csproj.CoreCompileInputs.cache
-C:\Users\Jamie\source\repos\Kitson.Dns\Dns\obj\Release\netcoreapp2.0\Dns.AssemblyInfoInputs.cache
-C:\Users\Jamie\source\repos\Kitson.Dns\Dns\obj\Release\netcoreapp2.0\Dns.AssemblyInfo.cs
-C:\Users\Jamie\source\repos\Kitson.Dns\Dns\obj\Release\netcoreapp2.0\Dns.dll
-C:\Users\Jamie\source\repos\Kitson.Dns\Dns\obj\Release\netcoreapp2.0\Dns.pdb

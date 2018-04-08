@@ -6,3 +6,12 @@ C:\Users\Jamie\source\repos\Kitson.Dns\Dns\obj\Debug\netcoreapp2.0\SimpleDNS.Ass
 C:\Users\Jamie\source\repos\Kitson.Dns\Dns\obj\Debug\netcoreapp2.0\SimpleDNS.AssemblyInfo.cs
 C:\Users\Jamie\source\repos\Kitson.Dns\Dns\obj\Debug\netcoreapp2.0\SimpleDNS.dll
 C:\Users\Jamie\source\repos\Kitson.Dns\Dns\obj\Debug\netcoreapp2.0\SimpleDNS.pdb
+C:\Users\Jamie\source\repos\SimpleDNS\SimpleDNS\SimpleDNS\bin\Debug\netcoreapp2.0\SimpleDNS.deps.json
+C:\Users\Jamie\source\repos\SimpleDNS\SimpleDNS\SimpleDNS\bin\Debug\netcoreapp2.0\SimpleDNS.dll
+C:\Users\Jamie\source\repos\SimpleDNS\SimpleDNS\SimpleDNS\bin\Debug\netcoreapp2.0\SimpleDNS.pdb
+C:\Users\Jamie\source\repos\SimpleDNS\SimpleDNS\SimpleDNS\obj\Debug\netcoreapp2.0\SimpleDNS.csprojResolveAssemblyReference.cache
+C:\Users\Jamie\source\repos\SimpleDNS\SimpleDNS\SimpleDNS\obj\Debug\netcoreapp2.0\SimpleDNS.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\SimpleDNS\SimpleDNS\SimpleDNS\obj\Debug\netcoreapp2.0\SimpleDNS.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\SimpleDNS\SimpleDNS\SimpleDNS\obj\Debug\netcoreapp2.0\SimpleDNS.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\SimpleDNS\SimpleDNS\SimpleDNS\obj\Debug\netcoreapp2.0\SimpleDNS.dll
+C:\Users\Jamie\source\repos\SimpleDNS\SimpleDNS\SimpleDNS\obj\Debug\netcoreapp2.0\SimpleDNS.pdb
