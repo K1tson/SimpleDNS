@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>Kitson.SimpleDNS</RootNamespace>
+    <AssemblyName>SimpleDNS</AssemblyName>
+    <Authors>Jamie Kitson</Authors>
+    <Description>A simple but comprehensive DNS library for C#</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://www.kitson-online.co.uk/simpledns-a-simple-but-comprehensive-dns-library-for-c/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/K1tson/SimpleDNS</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
