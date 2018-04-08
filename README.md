@@ -1,5 +1,5 @@
 # SimpleDNS
-##A simple but comprehensive DNS library for C#
+## A simple but comprehensive DNS library for C#
 
 ### What is SimpleDNS?
 
@@ -8,11 +8,11 @@ What makes SimpleDNS different to other DNS libraries?
 
 You can work with a DNS packet (Send/Receive) using OOP and the DNS results like the Flags in the header (Response, Opcode, Authoritative etc...) are all shown as immutable properties. Basically, you don't just get the result, you get the whole packet parsed into an object.
 
-###Okay...so how do I use it?
+### Okay...so how do I use it?
 
 It's simple, you can either create a DNS packet manually used for sending which will then return a new object instance with results, or you can use the simple custom SimpleDNS model which in the background creates a DNSPacket using your values from the SimpleDNS model.
 
-####SimpleDNS Model Example:
+#### SimpleDNS Model Example:
 
 ```
 //Create your question - (Hostname,QueryType)
@@ -22,7 +22,7 @@ var question = new Question("i.stack.imgur.com", QType.A);
 var result = Query.SimpleDnsAsync(new SimpleDnsPacket(question, IPAddress.Parse("8.8.8.8")));
 ```
 
-####Core DNS Model Example:
+#### Core DNS Model Example:
 
 ```
 //DNS Header
@@ -48,11 +48,11 @@ var result = Query.Dns(packet, IPAddress.Parse("8.8.8.8"));
 
 And the results returned from the query above can be seen below...
 
-#####Header Result:
+##### Header Result:
 ![Header](https://www.kitson-online.co.uk/wp-content/uploads/2018/04/resource1.png)
 
-#####CName Record Result:
+##### CName Record Result:
 ![CName](https://www.kitson-online.co.uk/wp-content/uploads/2018/04/resource2.png)
 
-#####A Record Result:
+##### A Record Result:
 ![ARecord](https://www.kitson-online.co.uk/wp-content/uploads/2018/04/resource3.png)
