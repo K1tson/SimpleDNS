@@ -57,5 +57,3 @@ And the results returned from the query above can be seen below...
 ##### A Record Result:
 ![ARecord](https://www.kitson-online.co.uk/wp-content/uploads/2018/04/resource3.png)
 
-
-SimpleDNS is also avaible as a Nuget packet: https://www.nuget.org/packages/SimpleDNS/1.0.0#
